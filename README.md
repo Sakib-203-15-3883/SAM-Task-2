@@ -42,6 +42,30 @@ always on mode mode and less than 20% charge
 
 ![always on mode mode and less than 20% charge](https://github.com/Sakib-203-15-3883/SAM-Task-2/blob/main/result/always_on_mode%20%26%26%20less_charge%20.png)
 
+# Environment Setup
+
+To create a watch face for smartwatches that run on Wear OS, first, you need to install and set up **Watch Face Studio**, which provides various tools to develop watch faces.
+
+## Step 1: Download Watch Face Studio
+1. Go to the given URL: [https://developer.samsung.com/watch-face-studio/download.html].  
+2. Download **Watch Face Studio** according to the operating system of your machine.  
+3. The download process may take some time depending on your internet connection.  
+   - The download screen should look like this:  
+
+  ![download screen](https://github.com/Sakib-203-15-3883/SAM-Task-2/blob/main/Images%20during%20the%20development%20phase/downloadPage.png)
+
+
+## Step 2: Install Watch Face Studio
+1. Complete the installation process.  
+
+## Step 3: Open Watch Face Studio
+1. After installation, open Watch Face Studio.  
+2. You should see the initial interface, which looks like this:  
+
+ ![initial screen](https://github.com/Sakib-203-15-3883/SAM-Task-2/blob/main/Images%20during%20the%20development%20phase/initialInterface.png)
+
+
+
 # Development 
 
 ## Step 1: Create a New Project
